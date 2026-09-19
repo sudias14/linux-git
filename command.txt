@@ -1,0 +1,13 @@
+linux command
+pwd 
+ls-la
+ls
+cd
+mkdir
+touch
+cp
+mv
+rm
+cat
+clear
+
