@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "Linux System Information"
 echo "Username: $(whoami)"
